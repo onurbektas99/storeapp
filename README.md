@@ -12,4 +12,14 @@ This project is a simple E-Commerce app developed using Flutter.
 
 📸 **Screenshot**
 
+![App Screenshot](https://github.com/onurbektas99/storeapp/tree/main/screenshoots/home.png)  
+![App Screenshot](https://github.com/onurbektas99/storeapp/tree/main/screenshoots/shop1.png) 
+![App Screenshot](https://github.com/onurbektas99/storeapp/tree/main/screenshoots/shop2.png)
+![App Screenshot](https://github.com/onurbektas99/storeapp/tree/main/screenshoots/add.png) 
+![App Screenshot](https://github.com/onurbektas99/storeapp/tree/main/screenshoots/cart.png) 
+![App Screenshot](https://github.com/onurbektas99/storeapp/tree/main/screenshoots/emptycart.png) 
+![App Screenshot](https://github.com/onurbektas99/storeapp/tree/main/screenshoots/menu.png) 
+![App Screenshot](https://github.com/onurbektas99/storeapp/tree/main/screenshoots/about.png) 
+
+
 
